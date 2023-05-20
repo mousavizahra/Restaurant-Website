@@ -1,8 +1,7 @@
 # Restaurant-Website
-![image](https://github.com/mousavizahra/Restaurant-Website/assets/104748512/6b60d20b-0abc-4d21-aee7-69aa6a46b8ac)
+ 
+ ![Screenshot 2023-05-20 092041](https://github.com/mousavizahra/Restaurant-Website/assets/104748512/129fbcd9-b915-477f-b251-c98a3e3bc12f)
 
+![Screenshot 2023-05-20 092059](https://github.com/mousavizahra/Restaurant-Website/assets/104748512/26c7d3ed-aec0-4eb1-8255-8290f37af7b6)
 
-![image](https://github.com/mousavizahra/Restaurant-Website/assets/104748512/7c306f45-1752-4a16-a0d2-2be208670303)
-
-
-![image](https://github.com/mousavizahra/Restaurant-Website/assets/104748512/8dc5504a-3045-4e3d-bfb2-5db4b3b216f7)
+![Screenshot 2023-05-20 092116](https://github.com/mousavizahra/Restaurant-Website/assets/104748512/28263ea3-f68e-485f-9bf5-a8d51e687fe1)
